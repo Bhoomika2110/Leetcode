@@ -7,12 +7,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0001-two-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Bhoomika2110/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0001-two-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Bhoomika2110/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Bhoomika2110/Leetcode/tree/master/0009-palindrome-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Bhoomika2110/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Bhoomika2110/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
