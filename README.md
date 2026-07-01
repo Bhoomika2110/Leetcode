@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhoomika2110/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0480-sliding-window-median](https://github.com/Bhoomika2110/Leetcode/tree/master/0480-sliding-window-median) |
 | [0904-fruit-into-baskets](https://github.com/Bhoomika2110/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhoomika2110/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0480-sliding-window-median](https://github.com/Bhoomika2110/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/Bhoomika2110/Leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Bhoomika2110/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Bhoomika2110/Leetcode/tree/master/0480-sliding-window-median) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
