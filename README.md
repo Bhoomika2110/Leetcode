@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bhoomika2110/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhoomika2110/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Bhoomika2110/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Bhoomika2110/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Bhoomika2110/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhoomika2110/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhoomika2110/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhoomika2110/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Bhoomika2110/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Bhoomika2110/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhoomika2110/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhoomika2110/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhoomika2110/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Bhoomika2110/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
