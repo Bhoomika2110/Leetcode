@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhoomika2110/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0480-sliding-window-median](https://github.com/Bhoomika2110/Leetcode/tree/master/0480-sliding-window-median) |
 | [0904-fruit-into-baskets](https://github.com/Bhoomika2110/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhoomika2110/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0001-two-sum) |
+| [0480-sliding-window-median](https://github.com/Bhoomika2110/Leetcode/tree/master/0480-sliding-window-median) |
 | [0904-fruit-into-baskets](https://github.com/Bhoomika2110/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhoomika2110/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/Bhoomika2110/Leetcode/tree/master/0480-sliding-window-median) |
 | [0904-fruit-into-baskets](https://github.com/Bhoomika2110/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhoomika2110/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Bhoomika2110/Leetcode/tree/master/0155-min-stack) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Bhoomika2110/Leetcode/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
