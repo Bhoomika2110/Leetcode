@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhoomika2110/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhoomika2110/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhoomika2110/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Bhoomika2110/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhoomika2110/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Bhoomika2110/Leetcode/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/Bhoomika2110/Leetcode/tree/master/0480-sliding-window-median) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhoomika2110/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Bhoomika2110/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Bhoomika2110/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Bhoomika2110/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bhoomika2110/Leetcode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhoomika2110/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Bhoomika2110/Leetcode/tree/master/0567-permutation-in-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Bhoomika2110/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Bhoomika2110/Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Bhoomika2110/Leetcode/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
