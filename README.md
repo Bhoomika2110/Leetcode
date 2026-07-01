@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0001-two-sum) |
 | [0480-sliding-window-median](https://github.com/Bhoomika2110/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/Bhoomika2110/Leetcode/tree/master/0567-permutation-in-string) |
+| [0895-maximum-frequency-stack](https://github.com/Bhoomika2110/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/Bhoomika2110/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhoomika2110/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhoomika2110/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Bhoomika2110/Leetcode/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/Bhoomika2110/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Bhoomika2110/Leetcode/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/Bhoomika2110/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhoomika2110/Leetcode/tree/master/0011-container-with-most-water) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Bhoomika2110/Leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
