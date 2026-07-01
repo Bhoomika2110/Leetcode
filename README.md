@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Bhoomika2110/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Bhoomika2110/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhoomika2110/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhoomika2110/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Bhoomika2110/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhoomika2110/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bhoomika2110/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Bhoomika2110/Leetcode/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Bhoomika2110/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
