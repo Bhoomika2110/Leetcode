@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bhoomika2110/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Bhoomika2110/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bhoomika2110/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Bhoomika2110/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Bhoomika2110/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Bhoomika2110/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhoomika2110/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bhoomika2110/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Bhoomika2110/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Bhoomika2110/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Bhoomika2110/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Bhoomika2110/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhoomika2110/Leetcode/tree/master/0242-valid-anagram) |
