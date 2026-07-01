@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Bhoomika2110/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0480-sliding-window-median](https://github.com/Bhoomika2110/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/Bhoomika2110/Leetcode/tree/master/0567-permutation-in-string) |
 | [0895-maximum-frequency-stack](https://github.com/Bhoomika2110/Leetcode/tree/master/0895-maximum-frequency-stack) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Bhoomika2110/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhoomika2110/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0480-sliding-window-median](https://github.com/Bhoomika2110/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/Bhoomika2110/Leetcode/tree/master/0567-permutation-in-string) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhoomika2110/Leetcode/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Bhoomika2110/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/Bhoomika2110/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Bhoomika2110/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Bhoomika2110/Leetcode/tree/master/0567-permutation-in-string) |
