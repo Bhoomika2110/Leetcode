@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Bhoomika2110/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Bhoomika2110/Leetcode/tree/master/0739-daily-temperatures) |
 | [0895-maximum-frequency-stack](https://github.com/Bhoomika2110/Leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/Bhoomika2110/Leetcode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Bhoomika2110/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhoomika2110/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0895-maximum-frequency-stack](https://github.com/Bhoomika2110/Leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/Bhoomika2110/Leetcode/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bhoomika2110/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhoomika2110/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Bhoomika2110/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Bhoomika2110/Leetcode/tree/master/0901-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhoomika2110/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Bhoomika2110/Leetcode/tree/master/0169-majority-element) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Bhoomika2110/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
