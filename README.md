@@ -301,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Bhoomika2110/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Bhoomika2110/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Bhoomika2110/Leetcode/tree/master/0078-subsets) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Bhoomika2110/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
